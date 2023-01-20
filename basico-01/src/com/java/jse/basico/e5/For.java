@@ -1,4 +1,4 @@
-package com.java.jse.basico;
+package com.java.jse.basico.e5;
 
 public class For {
 
